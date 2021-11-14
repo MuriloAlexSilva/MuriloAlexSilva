@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Murilo Silva
 ### Bem Vindo ao meu repositório
 
-- 🌱 Eu estou atualmente estudando HTML, CSS e JavaScript
+- 🌱 Eu estou atualmente estudando HTML, CSS, JavaScript e MySQL
 - 🎓 Eu estou cursando o Certified Tech Developer da Digital House
 
 <div align="center">
