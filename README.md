@@ -3,6 +3,8 @@
 
 - 🌱 Eu estou atualmente estudando HTML, CSS, JavaScript e MySQL
 - 🎓 Eu estou cursando o Certified Tech Developer da Digital House
+- 🎓 Possuo conhecimento em Flutter
+- 🎓 Possuo conhecimento em Dart
 
 <div align="center">
   <a href="https://github.com/MuriloAlexSilva">
