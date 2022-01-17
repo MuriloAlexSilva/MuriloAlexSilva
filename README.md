@@ -3,6 +3,7 @@
 
 - 🌱 Eu estou atualmente estudando HTML, CSS, JavaScript e MySQL
 - 🎓 Eu estou cursando o Certified Tech Developer da Digital House
+- 🎓 Eu estou cursando Analise e Desenvolvimento de Sistemas pela Unicesumar
 - 🎓 Possuo conhecimento em Flutter
 - 🎓 Possuo conhecimento em Dart
 
@@ -17,6 +18,8 @@
   <img align="center" alt="MuSilva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MuSilva-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="MuSilva-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="MuSilva-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  
 </div>
   
   ##
