@@ -26,7 +26,7 @@ I see the combination of these skills as a way to develop ever more incredible s
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="MuSilva-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="MuSilva-Laravel" height="30" width="40" src="https://icons8.com.br/icon/UG5EO81XNkPs/laravel">
+  <img align="center" alt="MuSilva-Laravel" height="30" width="40" src="https://img.icons8.com/stickers/100/null/laravel.png">
   <img align="center" alt="MuSilva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MuSilva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MuSilva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
