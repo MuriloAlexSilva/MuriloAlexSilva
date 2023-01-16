@@ -1,11 +1,22 @@
-## Olá, Eu sou o Murilo Silva
-### Bem Vindo ao meu repositório
+Hi! 👋
 
-- 🌱 Eu estou atualmente estudando HTML, CSS, JavaScript, MySQL e PHP
-- 🎓 Eu estou cursando o Certified Tech Developer da Digital House
-- 🎓 Eu estou cursando Analise e Desenvolvimento de Sistemas pela Unicesumar
-- 🎓 Possuo conhecimento em Flutter
-- 🎓 Possuo conhecimento em Dart
+First of all, I'm very happy that you've made it this far and, since you've arrived, I invite you to know a little more about me and my universe. 🌍
+
+🚀 Who is Murilo as a person?
+
+I'm Murilo Silva, I'm 33 years old, I'm from a city with a little over 100,000 inhabitants, they describe me as a determined, transparent, analytical person, "jack of all trades" and always very instigated to want to solve problems, in fact, what problem will we solve together?
+
+I like to study and I am always in search of new knowledge.
+
+🚀 Who is Murilo as a Systems Analyst?
+
+I'm studying the technologist in Analysis and Systems Development at Unicesumar, I work in the area as a PHP Developer.
+
+I have dedicated my last years to exploring the world of Information Technology and with each passing day I have fallen more and more in love with this amazing world. Today I have dedicated my studies to the world of WEB development, using the Laravel framework (PHP Language), as well as using the technologies/Languages ​​JavaScript, CSS, HTML and also Bootstrap.
+
+I also have knowledge in the Dart language, also Flutter and SQL.
+
+I see the combination of these skills as a way to develop ever more incredible systems for users.
 
 <div align="center">
   <a href="https://github.com/MuriloAlexSilva">
